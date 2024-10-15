@@ -1,4 +1,7 @@
 print("Hello python")
 print("Tanchanok Chailek")
+print("Pin")
 print("21")
-print("pin")
+print("5")
+print("67319010046")
+print("watch cartoons")
